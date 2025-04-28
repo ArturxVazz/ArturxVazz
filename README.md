@@ -5,7 +5,12 @@
 - 💻 Trabalho atualmente na area de tecnologia da raia Drogasil.
 - 📧 Contate-me pelo email icone de email abaixo.
 - 🙍‍♂️ Um jovem apaixonado pela tecnologia e inovação.
-  
+
+------------------------------------------------------------------- 
+- 🎓 Currently studying Java, Python and SQL.
+- 💻 currently work in the technology area at Drogasil.
+- 📧 Contact me via email email icon below.
+- 🙍‍♂️ A young man passionate about technology and innovation.
 
 ##
 
