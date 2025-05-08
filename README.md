@@ -24,6 +24,11 @@
   [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 
+- Framworks:
+
+   [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+
 - Banco Dados: 
 
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
