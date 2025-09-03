@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Artur Silva Vaz
 
 - 🎓 Atualmente estudando **Java**, **Python** e **SQL**.
-- 💻 Atuando na área de **Tecnologia** da **Raia Drogasil**.
+- 💻 Atuei na área de **Tecnologia** da **Raia Drogasil** e atualmente estou na área de **Operações de Seguros** na **XPinc**.
 - 📧 Entre em contato pelo e-mail abaixo.
 - 🙋‍♂️ Jovem apaixonado por tecnologia e inovação.
 
