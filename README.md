@@ -1,18 +1,21 @@
 ## 👋 Olá! Eu sou o Artur Silva Vaz
 
-- 🎓 Atualmente estudando **Java**, **Python** e **SQL**.
-- 💻 Atuei na área de **Tecnologia** da **Raia Drogasil** e atualmente estou na área de **Operações de Seguros** na **XPinc**.
-- 📧 Entre em contato pelo e-mail abaixo.
-- 🙋‍♂️ Jovem apaixonado por tecnologia e inovação.
+
+## 🌍 Sobre mim 
+
+- 🎓 Atualmente estudando Java, Python e SQL.
+- 💻 Já atuei na área de Tecnologia da Raia Drogasil e, atualmente, trabalho na área de Operações de Seguros na XP Inc.
+- 📧 Entre em contato pelo e-mail no ícone abaixo.
+- 🙋‍♂️ Sou um jovem apaixonado por tecnologia e inovação.
 
 ---
 
 ## 🌍 About me
 
-- 🎓 Currently studying **Java**, **Python** and **SQL**.
-- 💻 Currently working in the **Technology department** at **Drogasil**.
-- 📧 Contact me via the email icon below.
-- 🙋‍♂️ A young man passionate about technology and innovation.
+- 🎓 Currently studying Java, Python, and SQL.
+- 💻 I previously worked in the Technology department at Raia Drogasil, and I’m currently working in Insurance Operations at XP Inc.
+- 📧 You can reach me via the email icon below.
+- 🙋‍♂️ I’m a young professional passionate about technology and innovation.
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturxVazz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="ArturxVazz" /></p>
