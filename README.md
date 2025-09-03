@@ -58,7 +58,14 @@
 
 **Jovem Aprendiz** \
 [**RD Saúde**](https://rdsaude.com.br/) • 1 ano e 3 meses \
-Atuação na área de **Governança de TI**, com foco em dados, relatórios e controle de fornecedores.
+Atuação na área de **Governança de TI**, com foco em dados, relatórios e controle de fornecedores atráves do Excel, Power BI e Python.
+
+## 
+[<img align="left" height="94px" width="94px" alt="XP inc" src="https://tse4.mm.bing.net/th/id/OIP.l-v5C5YcscgvfuU0V5zb5gHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3 "/>](https://rdsaude.com.br/)
+
+**Xtag - Estagio** \
+[**XP Investimentos **](https://www.xpi.com.br/) • 2 semanas \
+Atuação na área de **Operations**, com foco em dados, Automações e Respostas de chamados atráves do zendesk, Python, SQL e Databricks.
 
 ---
 
