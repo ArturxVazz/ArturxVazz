@@ -1,8 +1,8 @@
 <div align="center">
 
-[<img src="https://flagcdn.com/w60/br.png" alt="Português" width="60"/>](README.md)
+[<img src="https://oimparcial.com.br/app/uploads/2019/11/qual-a-origem-do-ordem-e-progresso-na-bandeira-do-brasil-og-1024x538.jpg" alt="Português" width="60"/>](README.md)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://flagcdn.com/w60/us.png" alt="English" width="60"/>](README.en.md)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" width="60"/>](README.en.md)
 
 </div>
 
