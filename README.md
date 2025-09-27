@@ -1,5 +1,14 @@
-## 👋 Olá! Eu sou o Artur Silva Vaz
+<div align="center">
 
+[<img src="https://flagcdn.com/w60/br.png" alt="Português" width="60"/>](README.md)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://flagcdn.com/w60/us.png" alt="English" width="60"/>](README.en.md)
+
+</div>
+
+---
+
+## 👋 Olá! Eu sou o Artur Silva Vaz
 
 ## 🌍 Sobre mim 
 
@@ -10,14 +19,6 @@
 
 ---
 
-## 🌍 About Me
-
-- 🎓 Currently studying Java, Spring Boot, Python, and AI Agents.
-- 💻 I have previously worked in the Technology department at Raia Drogasil and currently work in the Insurance Operations area with Data at XP Inc.
-- 📧 Feel free to reach out via the email icon below.
-- 🙋‍♂️ I’m a young professional passionate about technology and innovation with Artificial Intelligence.
-
----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturxVazz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="ArturxVazz" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturxVazz\&layout=pie&theme=dark)
@@ -58,14 +59,15 @@
 
 **Jovem Aprendiz** \
 [**RD Saúde**](https://rdsaude.com.br/) • 1 ano e 3 meses \
-Atuação na área de **Governança de TI**, com foco em dados, relatórios e controle de fornecedores atráves do Excel, Power BI e Python.
+Atuação na área de **Governança de TI**, com foco em dados, relatórios e controle de fornecedores através do Excel, Power BI e Python.
 
-## 
-[<img align="left" height="94px" width="94px" alt="XP inc" src="https://tse4.mm.bing.net/th/id/OIP.l-v5C5YcscgvfuU0V5zb5gHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3 "/>](https://rdsaude.com.br/)
+##
 
-**Xtag - Estagio** \
-[**XP Investimentos **](https://www.xpi.com.br/) • 2 semanas \
-Atuação na área de **Operations**, com foco em dados, Automações e Respostas de chamados atráves do zendesk, Python, SQL e Databricks.
+[<img align="left" height="94px" width="94px" alt="XP inc" src="https://tse4.mm.bing.net/th/id/OIP.l-v5C5YcscgvfuU0V5zb5gHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3 "/>](https://www.xpi.com.br/)
+
+**Xtag - Estágio** \
+[**XP Investimentos**](https://www.xpi.com.br/) • 2 semanas \
+Atuação na área de **Operations**, com foco em dados, automações e respostas de chamados através do Zendesk, Python, SQL e Databricks.
 
 ---
 
@@ -82,3 +84,4 @@ Atuação na área de **Operations**, com foco em dados, Automações e Resposta
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+
