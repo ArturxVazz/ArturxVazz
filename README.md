@@ -6,11 +6,7 @@
 
 </div>
 
----
-
-## 👋 Olá! Eu sou o Artur Silva Vaz
-
-## 🌍 Sobre mim 
+## 👋 Olá! Eu sou o Artur Silva Vaz 
 
 - 🎓 Atualmente estudando Java, Spring Boot, Python e Agentes de IA.
 - 💻 Já atuei na área de Tecnologia da Raia Drogasil e, atualmente, trabalho na área de Operações de Seguros com Dados na XP Inc.
