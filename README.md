@@ -3,10 +3,10 @@
 
 ## 🌍 Sobre mim 
 
-- 🎓 Atualmente estudando Java, Python e SQL.
+- 🎓 Atualmente estudando Java, Spring Boot, Python e Agentes de IA.
 - 💻 Já atuei na área de Tecnologia da Raia Drogasil e, atualmente, trabalho na área de Operações de Seguros com Dados na XP Inc.
 - 📧 Entre em contato pelo e-mail no ícone abaixo.
-- 🙋‍♂️ Sou um jovem apaixonado por tecnologia e inovação.
+- 🙋‍♂️ Sou um jovem apaixonado por tecnologia e inovação com Inteligência Artificial.
 
 ---
 
