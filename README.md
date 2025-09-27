@@ -4,7 +4,7 @@
 ## 🌍 Sobre mim 
 
 - 🎓 Atualmente estudando Java, Python e SQL.
-- 💻 Já atuei na área de Tecnologia da Raia Drogasil e, atualmente, trabalho na área de Operações de Seguros na XP Inc.
+- 💻 Já atuei na área de Tecnologia da Raia Drogasil e, atualmente, trabalho na área de Operações de Seguros com Dados na XP Inc.
 - 📧 Entre em contato pelo e-mail no ícone abaixo.
 - 🙋‍♂️ Sou um jovem apaixonado por tecnologia e inovação.
 
