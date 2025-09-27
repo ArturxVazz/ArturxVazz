@@ -10,12 +10,12 @@
 
 ---
 
-## 🌍 About me
+## 🌍 About Me
 
-- 🎓 Currently studying Java, Python, and SQL.
-- 💻 I previously worked in the Technology department at Raia Drogasil, and I’m currently working in Insurance Operations at XP Inc.
-- 📧 You can reach me via the email icon below.
-- 🙋‍♂️ I’m a young professional passionate about technology and innovation.
+- 🎓 Currently studying Java, Spring Boot, Python, and AI Agents.
+- 💻 I have previously worked in the Technology department at Raia Drogasil and currently work in the Insurance Operations area with Data at XP Inc.
+- 📧 Feel free to reach out via the email icon below.
+- 🙋‍♂️ I’m a young professional passionate about technology and innovation with Artificial Intelligence.
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturxVazz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="ArturxVazz" /></p>
