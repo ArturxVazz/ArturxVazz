@@ -6,11 +6,9 @@
 
 </div>
 
----
+
 
 ## 👋 Hello! I’m Artur Silva Vaz
-
-## 🌍 About Me
 
 - 🎓 Currently studying Java, Spring Boot, Python, and AI Agents.
 - 💻 I have previously worked in the Technology department at Raia Drogasil and currently work in the Insurance Operations area with Data at XP Inc.
